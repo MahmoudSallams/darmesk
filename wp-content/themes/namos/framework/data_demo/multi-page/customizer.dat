@@ -1,0 +1,18 @@
+a:4:{s:8:"template";s:5:"namos";s:4:"mods";a:19:{i:0;b:0;s:18:"custom_css_post_id";i:98;s:18:"nav_menu_locations";a:3:{s:7:"primary";i:23;s:7:"onepage";i:24;s:5:"other";i:26;}s:14:"header_socials";a:3:{i:0;a:3:{s:11:"social_name";s:2:"Tw";s:11:"social_icon";s:7:"twitter";s:11:"social_link";s:1:"#";}i:1;a:3:{s:11:"social_name";s:2:"Fb";s:11:"social_icon";s:8:"facebook";s:11:"social_link";s:1:"#";}i:2;a:3:{s:11:"social_name";s:2:"G+";s:11:"social_icon";s:6:"google";s:11:"social_link";s:1:"#";}}s:14:"footer_socials";a:4:{i:0;a:3:{s:11:"social_name";s:2:"Tw";s:11:"social_icon";s:7:"twitter";s:11:"social_link";s:1:"#";}i:1;a:3:{s:11:"social_name";s:2:"Fb";s:11:"social_icon";s:8:"facebook";s:11:"social_link";s:1:"#";}i:2;a:3:{s:11:"social_name";s:2:"G+";s:11:"social_icon";s:6:"google";s:11:"social_link";s:1:"#";}i:3;a:3:{s:11:"social_name";s:2:"Vm";s:11:"social_icon";s:5:"vimeo";s:11:"social_link";s:1:"#";}}s:7:"preload";b:1;s:9:"body_typo";a:11:{s:11:"font-family";s:4:"Lato";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"13px";s:11:"line-height";s:5:"1.7em";s:14:"letter-spacing";s:1:"0";s:7:"subsets";a:1:{i:0;s:9:"latin-ext";}s:5:"color";s:7:"#ffffff";s:14:"text-transform";s:4:"none";s:10:"text-align";s:4:"left";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}s:11:"blog_layout";s:6:"no-bar";s:9:"header_bg";s:13:"rgba(0,0,0,0)";s:9:"copyright";s:94:"Call us at <a href="#">+37 237 325 563</a><br>or say hello at <a href="#">people@namos.com</a>";s:24:"header_scroll_text_color";s:7:"#ffffff";s:17:"header_text_color";s:7:"#ffffff";s:16:"header_scroll_bg";s:16:"rgba(0,0,0,0.93)";s:13:"header_layout";s:1:"2";s:15:"preload_bgcolor";s:7:"#161616";s:18:"preload_text_color";s:7:"#21d365";s:10:"main_color";s:7:"#21d365";s:9:"mapapikey";s:39:"AIzaSyAvpnlHRidMIU374bKM5-sx8ruc01OvDjI";s:13:"subtitle_blog";s:189:"<ul class="list">
+						<li>
+							<strong>LATEST</strong>
+						</li>
+						<li>
+							<strong>HOT</strong>
+						</li>
+						<li>
+							<strong>TRENDING</strong>
+						</li>
+					</ul>";}s:7:"options";a:2:{s:9:"site_icon";s:3:"214";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:112:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+html {
+margin-top: 0!important;
+}";}

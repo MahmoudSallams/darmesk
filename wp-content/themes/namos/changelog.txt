@@ -1,0 +1,7 @@
+19/03/2018 – Version 1.1.0
+- Updated: Visual Composer plugin version 5.4.7
+- New added: Add target blank for social icons on footer and header.
+- Files Updated: footer.php, header2.php, plugin-requires.php, style.css
+
+28/11/2017 – Version 1.0.0
+* First release !
